@@ -35,7 +35,7 @@ $ npm install jokesnquotes
 
 ## Usage
 
-[![usage](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/vinitshahdeo/inspirational-quotes/)
+[![usage](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/ashwaniYDV/jokesnquotes/)
 
 #### Quick review
 
