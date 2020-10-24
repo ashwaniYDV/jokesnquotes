@@ -4,7 +4,7 @@ var quotes = require('./data/quotes.json');
 var jokesCount = jokes.length;
 var quotesCount = quotes.length;
 
-exclude_tags_default = ['dirty', 'sex', 'racist'];
+exclude_tags_default = ['sex', 'racist'];
 
 function randomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
