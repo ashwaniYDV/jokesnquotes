@@ -1,6 +1,6 @@
 {
   "name": "jokesnquotes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My first npm package",
   "main": "index.js",
   "scripts": {
