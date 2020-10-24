@@ -1,0 +1,22 @@
+{
+  "name": "jokesnquotes",
+  "version": "1.0.0",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwaniYDV/jokesnquotes.git"
+  },
+  "keywords": [
+    "npm-package"
+  ],
+  "author": "ashwaniYDV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwaniYDV/jokesnquotes/issues"
+  },
+  "homepage": "https://github.com/ashwaniYDV/jokesnquotes#readme"
+}
