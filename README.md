@@ -125,7 +125,7 @@ $ node example
 ## Let's **[get connected](https://www.linkedin.com/in/ashwaniydv/)** if we share the same views! 
 Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/ashwaniydv/)**.
  
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@ashwani.iitp18&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/ashwani.yadav9499)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@ashwani_iitp&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/ashwani_yadav04/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@ashwaniydv&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/ashwaniydv/)
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@ashwani.iitp18&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/ashwani.iitp18)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@ashwani_iitp&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/ashwani_iitp/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@ashwaniydv&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/ashwaniydv/)
 
 
 > **One day your life will flash before your eyes. Make sure it is worth watching!**
