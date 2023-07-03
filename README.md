@@ -54,7 +54,7 @@ console.log(jokesnquotes.getRandomQuote());
  
  #### Full review
  
- ```
+ ```js
 var jokesnquotes = require('jokesnquotes');
 
 /*
