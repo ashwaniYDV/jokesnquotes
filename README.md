@@ -1,10 +1,17 @@
 # jokesnquotes
 
-[![NPM VERSION](http://img.shields.io/npm/v/jokesnquotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/jokesnquotes) [![GitHub license](https://img.shields.io/github/license/ashwaniYDV/jokesnquotes.svg?style=flat&logo=github)](https://github.com/ashwaniYDV/jokesnquotes/blob/main/LICENSE)  [![npm collaborators](https://img.shields.io/npm/collaborators/jokesnquotes.svg?logo=npm)](https://www.npmjs.com/package/jokesnquotes) [![GitHub issues](https://img.shields.io/github/issues/ashwaniYDV/jokesnquotes.svg?logo=github)](https://www.npmjs.com/package/jokesnquotes)
+[![NPM VERSION](http://img.shields.io/npm/v/jokesnquotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/jokesnquotes) 
+[![GitHub license](https://img.shields.io/github/license/ashwaniYDV/jokesnquotes.svg?style=flat&logo=github)](https://github.com/ashwaniYDV/jokesnquotes/blob/main/LICENSE) 
+[![npm collaborators](https://img.shields.io/npm/collaborators/jokesnquotes.svg?logo=npm)](https://www.npmjs.com/package/jokesnquotes) 
+[![GitHub issues](https://img.shields.io/github/issues/ashwaniYDV/jokesnquotes.svg?logo=github)](https://www.npmjs.com/package/jokesnquotes)
 
 #### A simple [NPM](https://www.npmjs.com/package/jokesnquotes) Package which returns random [jokesnquotes](https://github.com/ashwaniYDV/jokesnquotes). It provides awesome quotes to display in your application and if your mood is off, it provides jokes with categories. Get your daily quote and stay motivated along with a smile!
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ashwaniYDV/jokesnquotes.svg?logo=github&style=social)](https://www.npmjs.com/package/jokesnquotes) [![npm](https://img.shields.io/npm/dy/jokesnquotes.svg?logo=npm&style=social)](https://www.npmjs.com/package/jokesnquotes) [![GitHub last commit](https://img.shields.io/github/last-commit/ashwaniYDV/jokesnquotes.svg?logo=git&style=social)](https://ashwaniYDV.github.io/jokesnquotes/) [![GitHub top language](https://img.shields.io/github/languages/top/ashwaniYDV/jokesnquotes.svg?logo=javascript&logoColor=yellow&style=social)](https://ashwaniYDV.github.io/jokesnquotes/) [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg?logo=npm&style=social)](https://ashwaniYDV.github.io/)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ashwaniYDV/jokesnquotes.svg?logo=github&style=social)](https://www.npmjs.com/package/jokesnquotes) 
+[![npm](https://img.shields.io/npm/dy/jokesnquotes.svg?logo=npm&style=social)](https://www.npmjs.com/package/jokesnquotes) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/ashwaniYDV/jokesnquotes.svg?logo=git&style=social)](https://ashwaniYDV.github.io/jokesnquotes/)
+[![GitHub top language](https://img.shields.io/github/languages/top/ashwaniYDV/jokesnquotes.svg?logo=javascript&logoColor=yellow&style=social)](https://ashwaniYDV.github.io/jokesnquotes/) 
+[![Maintenance](https://img.shields.io/maintenance/yes/2023.svg?logo=npm&style=social)](https://ashwaniYDV.github.io/)
 
 **Click [here](https://www.npmjs.com/package/jokesnquotes)** to view this package on **NPM** registry. Check the homepage **[here](https://ashwaniYDV.github.io/)**.
 
