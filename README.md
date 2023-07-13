@@ -140,3 +140,8 @@ Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/ashwaniydv/)**.
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/ashwaniYDV/jokesnquotes)
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://ashwaniydv.github.io)
 [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/ashwaniYDV/)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ashwaniYDV/jokesnquotes&type=Date)](https://star-history.com/#ashwaniYDV/jokesnquotes&Date)
